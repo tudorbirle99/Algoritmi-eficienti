@@ -1,0 +1,6 @@
+Search Statistics for 1000 persons:
+Total hash table iterations: 510898
+Total original structure iterations: 508486524
+Average hash table iterations: 510.90
+Average original structure iterations: 508486.52
+Improvement: 99.90% fewer iterations
